@@ -3,7 +3,7 @@
 I live in Dubai. I don't have a software background.
 I just really like building things for people I care about.
 
-if you're here from OSV -- I left you something. See: github.com/pragueyerrr/unthought
+if you're here from OSV or Tarabot -- I left you something. See: github.com/pragueyerrr/unthought
 ---
 
 It probably started in 5th grade when I accidentally became
